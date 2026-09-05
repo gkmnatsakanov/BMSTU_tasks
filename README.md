@@ -1,1 +1,1 @@
-# BMSTU_tasks
+# BMSTU - tasks
